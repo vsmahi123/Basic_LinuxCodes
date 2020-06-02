@@ -1,0 +1,7 @@
+threads:
+
+1. shares with fello threads
+	1. code segment
+	2. Data segment
+	3. open files.
+
